@@ -9,6 +9,7 @@ Content\Blueprints\Framework 폴더에 **BP_Character_Kong.uasset** 이벤트 �
 
 ## Python - Unreal Editor 과제
 **Content\Python\EditActor.py**에 Python 코드가 있습니다.
+
 **Content\UMG** 폴더에 **EUW_Python**을 실행해주시고 
 ![pythonimage_1](https://github.com/joHyeok/kong_test/assets/69950874/e161a85c-69e3-4d54-bb20-a1e6fa9a2354)
 1. 선택한 액터를 지정된 액터로 변경
